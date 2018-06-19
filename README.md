@@ -28,8 +28,20 @@
 ## Resources
 
 1.  [MS Imaging](https://ms-imaging.org/wp/) - Home of Mass Spectrometry Imaging
-2.  [SpectralAnalysis](https://github.com/AlanRace/SpectralAnalysis)
+2.  [OMICS Tools](omicstools.com)
 
+---
+
+## Software Tools
+
+| Name | Language | Year | Functionalities | Instrumentation | Comments |
+| :--- | :------- | :--- | :-------------- | :-------------- | :------- | undefined |undefined |
+| [SpectralAnalysis](https://github.com/AlanRace/SpectralAnalysis)   |
+| [BASIS](https://bitbucket.org/iAnalytica/basis_pyproc/src/master/) |
+| [Cardinal](https://github.com/kuwisdelu/Cardinal)                  |
+| [EXIMS](https://sourceforge.net/projects/exims/files/)             |
+| [OpenMIMS](https://github.com/BWHCNI/OpenMIMS)                     |
+| [MassImager]()                                                     |
 ---
 
 ## References
@@ -65,3 +77,17 @@ Software Tools
 Race, Alan M., et al. "**SpectralAnalysis: software for the masses.**" Analytical chemistry 88.19 (2016): 9451-9458. [[pdf]](./docs/pdfs/race2016.pdf)
 
 Bemis, Kyle D., et al. "**Cardinal: an R package for statistical analysis of mass spectrometry-based imaging experiments.**" Bioinformatics 31.14 (2015): 2418-2420. [[pdf]](./docs/pdfs/cardinal.pdf)
+
+Veselkov, Kirill, et al. "**BASIS: High-performance bioinformatics platform for processing of large-scale mass spectrometry imaging data in chemically augmented histology.**" Scientific reports 8.1 (2018): 4053. [[pdf]](./docs/pdfs/s41598-018-22499-z.pdf)
+
+Wijetunge, Chalini D., et al. "**EXIMS: an improved data analysis pipeline based on a new peak picking method for EXploring Imaging Mass Spectrometry data.**" Bioinformatics 31.19 (2015): 3198-3206. [[pdf]](./docs/pdfs/btv356.pdf) 
+
+Poczatek, Collin, Zeke Kaufman, and Claude Lechene. "**OpenMIMS ImageJ Plugin Guide.**" Harvard Medical School (Boston, Massachusetts, USA) (2009). [[pdf]](./docs/pdfs/openmims-manual.pdf)
+
+He, Jiuming, et al. "**MassImager: A software for interactive and in-depth analysis of mass spectrometry imaging data.**" Analytica chimica acta 1015 (2018): 50-57.  [[pdf]](./docs/pdfs/he2018.pdf)
+
+Key Papers
+
+Davidson, Shawn M., et al. "**Direct evidence for cancer-cell-autonomous extracellular protein catabolism in pancreatic tumors.**" Nature medicine 23.2 (2017): 235. [[pdf]](./docs/pdfs/nm.4256.pdf) [[supplemental]](./docs/pdfs/nm.4256-S1.pdf)
+**
+
