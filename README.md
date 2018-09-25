@@ -36,20 +36,23 @@
 
 ### Open Source Libraries
 
-| Name                                                               | Language | Category | Year | Functionalities | Instrumentation | Comments |
-| :----------------------------------------------------------------- | :------- | :------- | :--- | :-------------- | :-------------- | :------- |
-| [SpectralAnalysis](https://github.com/AlanRace/SpectralAnalysis)   | MATLAB   |
-| [BASIS](https://bitbucket.org/iAnalytica/basis_pyproc/src/master/) | Python   |
-| [Cardinal](https://github.com/kuwisdelu/Cardinal)                  | R        |
-| [EXIMS](https://sourceforge.net/projects/exims/files/)             |          |
-| [OpenMIMS](https://github.com/BWHCNI/OpenMIMS)                     | Java     |
-| [OOMAT](https://github.com/biorack/omaat)                          | Python   |
-| [PyImagingMSpec](https://github.com/alexandrovteam/pyImagingMSpec) | Python   |
-| [pyimzML](https://github.com/alexandrovteam/pyimzML)               | Python   |
-| [MSImageView](https://github.com/stoeckli/MSImageViewer) \*        |
-| [PySM](https://github.com/alexandrovteam/pySM)                     | Python   |
-| [pyQms](https://github.com/pyQms/pyqms)                            | Python   |
-| [massPix](https://github.com/hallz/massPix)                        | R        |
+| Name                                                                              | Language | Category | Year | Functionalities | Instrumentation | Comments |
+| :-------------------------------------------------------------------------------- | :------- | :------- | :--- | :-------------- | :-------------- | :------- |
+| [SpectralAnalysis](https://github.com/AlanRace/SpectralAnalysis)                  | MATLAB   |
+| [BASIS](https://bitbucket.org/iAnalytica/basis_pyproc/src/master/)                | Python   |
+| [Cardinal](https://github.com/kuwisdelu/Cardinal)                                 | R        |
+| [EXIMS](https://sourceforge.net/projects/exims/files/)                            |          |
+| [OpenMIMS](https://github.com/BWHCNI/OpenMIMS)                                    | Java     |
+| [OOMAT](https://github.com/biorack/omaat)                                         | Python   |
+| [PyImagingMSpec](https://github.com/alexandrovteam/pyImagingMSpec)                | Python   |
+| [pyimzML](https://github.com/alexandrovteam/pyimzML)                              | Python   |
+| [MSImageView](https://github.com/stoeckli/MSImageViewer) \*                       |
+| [PySM](https://github.com/alexandrovteam/pySM)                                    | Python   |
+| [pyQms](https://github.com/pyQms/pyqms)                                           | Python   |
+| [massPix](https://github.com/hallz/massPix)                                       | R        |
+| [imzML Validator](https://gitlab.com/imzML/imzMLValidator)                        | Java     |
+| [Metaspace](https://github.com/metaspace2020/metaspace)                           | Python   |
+| [ChemDistiller](https://bitbucket.org/iAnalytica/chemdistillerpython/src/master/) | Python   |
 
 ### Open Sofware
 
@@ -57,7 +60,6 @@
 | :---------------------------------------------------------- | :------ | :------- | :--- | :-------------- | :-------------- | :------- |
 | [OpenMSI](https://openmsi.nersc.gov/openmsi/client/)        | Webtool |
 | [Molecular Image Fusion](http://fusion.vueinnovations.com/) |         |
-| [Metaspace](http://metaspace2020.eu/#/about)                |
 
 ### Licenced Software
 
@@ -104,13 +106,31 @@ Bishop, David P., et al. "**A guide to integrating immunohistochemistry and chem
 
 Prideaux, Brendan, Anne Lenaerts, and Véronique Dartois. "**Imaging and spatially resolved quantification of drug distribution in tissues by mass spectrometry.**" Current opinion in chemical biology 44 (2018): 93-100. [[pdf]](./docs/pdfs/1-s2.0-S1367593117302211-main.pdf)
 
-### Machine Learning
+### Quantitative Techniques
 
 Behrmann, Jens, et al. "**Deep learning for tumor classification in imaging mass spectrometry.**" Bioinformatics 1 (2017): 9. [[pdf]](./docs/pdfs/1705.01015.pdf)
 
 Zhang, Ye, and Xin Liu. "**Machine learning techniques for mass spectrometry imaging data analysis and applications.**" (2018): 519-522. [[pdf]](./docs/pdfs/bio-2017-0281.pdf)
 
 Galli, Manuel, et al. "**Machine learning approaches in MALDI-MSI: clinical applications.**" Expert review of proteomics 13.7 (2016): 685-696. [[pdf]](./docs/pdfs/galli2016.pdf)
+
+Pleska, Arijus. "**Spatial Smoothing in Mass Spectrometry Imaging.**" (2017). [[pdf]](./docs/pdfs/03557e77ab877bec1622bdf16b54f152f841.pdf)
+
+Jones, Emrys A., et al. "**Imaging mass spectrometry statistical analysis.**" Journal of proteomics 75.16 (2012): 4962-4989. [[pdf]](./docs/pdfs/jones2012.pdf)
+
+Alexandrov, Theodore. "**MALDI imaging mass spectrometry: statistical data analysis and current computational challenges.**" BMC bioinformatics 13.16 (2012): S11. [[pdf]](./docs/pdfs/1471-2105-13-S16-S11.pdf)
+
+Trede, Dennis, et al. "**On the importance of mathematical methods for analysis of MALDI-imaging mass spectrometry data.**" Journal of Integrative Bioinformatics (JIB) 9.1 (2012): 1-11. [[pdf]](./docs/pdfs/dennistrede2012.pdf)
+
+Dexter, Alex, et al. "**Two-phase and graph-based clustering methods for accurate and efficient segmentation of large mass spectrometry images.**" Analytical chemistry 89.21 (2017): 11293-11300. [[pdf]](./docs/pdfs/dexter2017.pdf)
+
+Abdelmoula, Walid M., et al. "**Interactive visual exploration of 3D mass spectrometry imaging data using hierarchical stochastic neighbor embedding reveals spatiomolecular structures at full data resolution.**" Journal of proteome research 17.3 (2018): 1054-1064. [[pdf]](./docs/pdfs/abdelmoula2018.pdf)
+
+Abdelmoula, Walid M., et al. "**Automatic generic registration of mass spectrometry imaging data to histology using nonlinear stochastic embedding.**" Analytical chemistry 86.18 (2014): 9204-9211. [[pdf]](./docs/pdfs/abdelmoula2014.pdf)
+
+Thomas, Spencer A., et al. "**Dimensionality reduction of mass spectrometry imaging data using autoencoders.**" Computational Intelligence (SSCI), 2016 IEEE Symposium Series on. IEEE, 2016. [[pdf]](./docs/pdfs/thomas2016.pdf)
+
+Thomas, Spencer A., et al. "**Enhancing classification of mass spectrometry imaging data with deep neural networks.**" Computational Intelligence (SSCI), 2017 IEEE Symposium Series on. IEEE, 2017. [[pdf]](./docs/pdfs/thomas2017.pdf)
 
 ### Software Tools
 
@@ -126,7 +146,15 @@ Leufken, Johannes, et al. "**pyQms enables universal and accurate quantification
 
 Bemis, Kyle D., et al. "**Cardinal: an R package for statistical analysis of mass spectrometry-based imaging experiments.**" Bioinformatics 31.14 (2015): 2418-2420. [[pdf]](./docs/pdfs/cardinal.pdf)
 
+Laponogov, Ivan, et al. "**ChemDistiller: an engine for metabolite annotation in mass spectrometry.**" Bioinformatics 34.12 (2018): 2096-2102. [[pdf]](./docs/pdfs/bty080.pdf)
+
+> Not IMS specific
+
 Bond, Nicholas J., et al. "**massPix: an R package for annotation and interpretation of mass spectrometry imaging data for lipidomics.**" Metabolomics 13.11 (2017): 128. [[pdf]](./docs/pdfs/Bond2017.pdf)
+
+Race, Alan Mark, and Andreas Römpp. "**Error-free data visualisation and processing through imzML and mzML validation.**" Analytical chemistry (2018). [[pdfs]](./docs/pdfs/10.1021@acs.analchem.8b03059.pdf)
+
+C. Silva, Ana S., et al. "**Data-driven rescoring of metabolite annotations significantly improves sensitivity.**" Analytical chemistry (2018). [[pdf]](./docs/pdfs/10.1021@acs.analchem.8b03224.pdf)
 
 Veselkov, Kirill, et al. "**BASIS: High-performance bioinformatics platform for processing of large-scale mass spectrometry imaging data in chemically augmented histology.**" Scientific reports 8.1 (2018): 4053. [[pdf]](./docs/pdfs/s41598-018-22499-z.pdf)
 
@@ -154,6 +182,16 @@ Norris, Jeremy L., and Richard M. Caprioli. "**Analysis of tissue specimens by m
 
 Cassat, James E., et al. "**Integrated molecular imaging reveals tissue heterogeneity driving host-pathogen interactions.**" Science translational medicine 10.432 (2018): eaan6361. [[pdf]](./docs/pdfs/cassat2018.pdf)
 
+Verbeeck, Nico, et al. "**Automated anatomical interpretation of ion distributions in tissue: linking imaging mass spectrometry to curated atlases.**" Analytical chemistry 86.18 (2014): 8974-8982. [[pdf]](.docs/pdfs/verbeeck2014.pdf)
+
+Abdelmoula, Walid M., et al. "**Automatic registration of mass spectrometry imaging data sets to the Allen brain atlas.**" Analytical chemistry 86.8 (2014): 3947-3954. [[pdf]](./docs/pdfs/Automatic_Registration_of_Mass_Spectrome.pdf)
+
+Verbeeck, Nico, et al. "**Connecting imaging mass spectrometry and magnetic resonance imaging-based anatomical atlases for automated anatomical interpretation and differential analysis.**" Biochimica et Biophysica Acta (BBA)-Proteins and Proteomics 1865.7 (2017): 967-977. [[pdf]](./docs/pdfs/verbeeck2017.pdf)
+
 ### Dissertations
 
 Palmer, Andrew D. **Information processing for mass spectrometry imaging.** Diss. University of Birmingham, 2014. [[pdf]](./docs/pdfs/Palmer14PhD.pdf)
+
+Race, Alan M. **Investigation and interpretation of large mass spectrometry imaging datasets.** Diss. University of Birmingham, 2016. [[pdf]](./docs/pdfs/Race16PhD.pdf)
+
+Abdelmoula, Walid Mohamed. **Data analysis for mass spectrometry imaging: methods and applications**. Diss. 2017. [[link]](https://openaccess.leidenuniv.nl/handle/1887/45501)
