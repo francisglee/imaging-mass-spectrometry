@@ -27,26 +27,49 @@
 
 ## Resources
 
+\* _Resource is dated - may not be maintained._
+
 1.  [MS Imaging](https://ms-imaging.org/wp/) - Home of Mass Spectrometry Imaging
 2.  [OMICS Tools](omicstools.com)
 
----
+### Open Source Libraries
 
-## Software Tools
+| Name                                                               | Language | Category | Year | Functionalities | Instrumentation | Comments |
+| :----------------------------------------------------------------- | :------- | :------- | :--- | :-------------- | :-------------- | :------- |
+| [SpectralAnalysis](https://github.com/AlanRace/SpectralAnalysis)   | MATLAB   |
+| [BASIS](https://bitbucket.org/iAnalytica/basis_pyproc/src/master/) | Python   |
+| [Cardinal](https://github.com/kuwisdelu/Cardinal)                  | R        |
+| [EXIMS](https://sourceforge.net/projects/exims/files/)             |          |
+| [OpenMIMS](https://github.com/BWHCNI/OpenMIMS)                     | Java     |
+| [OOMAT](https://github.com/biorack/omaat)                          | Python   |
+| [PyImagingMSpec](https://github.com/alexandrovteam/pyImagingMSpec) | Python   |
+| [pyimzML](https://github.com/alexandrovteam/pyimzML)               | Python   |
+| [MSImageView](https://github.com/stoeckli/MSImageViewer) \*        |
 
-| Name | Language | Year | Functionalities | Instrumentation | Comments |
-| :--- | :------- | :--- | :-------------- | :-------------- | :------- | undefined |undefined |
-| [SpectralAnalysis](https://github.com/AlanRace/SpectralAnalysis)   |
-| [BASIS](https://bitbucket.org/iAnalytica/basis_pyproc/src/master/) |
-| [Cardinal](https://github.com/kuwisdelu/Cardinal)                  |
-| [EXIMS](https://sourceforge.net/projects/exims/files/)             |
-| [OpenMIMS](https://github.com/BWHCNI/OpenMIMS)                     |
-| [MassImager]()                                                     |
+### Open Sofware
+
+| Name                                                 | OS      | Category | Year | Functionalities | Instrumentation | Comments |
+| :--------------------------------------------------- | :------ | :------- | :--- | :-------------- | :-------------- | :------- |
+| [OpenMSI](https://openmsi.nersc.gov/openmsi/client/) | Webtool |
+
+)
+
+### Software
+
+| Name                                          | OS         | Year | Functionalities | Instrumentation | Language | Comments |
+| :-------------------------------------------- | :--------- | :--- | :-------------- | :-------------- | :------- | :------- |
+| [MassImager]()                                |
+| [FlexImaging]()                               |
+| [SCiLS Lab]()                                 |
+| [msIQuant](https://ms-imaging.org/wp/paquan/) | Windows 7+ |
+
+|
+
 ---
 
 ## References
 
-Reviews
+**Reviews**
 
 Aichler, Michaela, and Axel Walch. "**MALDI Imaging mass spectrometry: current frontiers and perspectives in pathology research and practice.**" Laboratory investigation 95.4 (2015): 422. [[pdf]](./docs/pdfs/Aichler_et_al-2015-Laboratory_Investigation.pdf)
 
@@ -60,19 +83,19 @@ Dong, Yonghui, Bin Li, and Asaph Aharoni. "**More than pictures: when MS imaging
 
 Caprioli, Richard M. "**Imaging mass spectrometry: Molecular microscopy for the new age of biology and medicine.**" Proteomics 16.11-12 (2016): 1607-1612. [[pdf]](./docs/pdfs/Caprioli-1607-PROTEOMICS.pdf)
 
-Machine Learning
+**Machine Learning**
 
 Behrmann, Jens, et al. "**Deep learning for tumor classification in imaging mass spectrometry.**" Bioinformatics 1 (2017): 9. [[pdf]](./docs/pdfs/1705.01015.pdf)
 
-Zhang, Ye, and Xin Liu. "**Machine learning techniques for mass spectrometry imaging data analysis and applications.**" (2018): 519-522.  [[pdf]](./docs/pdfs/bio-2017-0281.pdf)\
+Zhang, Ye, and Xin Liu. "**Machine learning techniques for mass spectrometry imaging data analysis and applications.**" (2018): 519-522. [[pdf]](./docs/pdfs/bio-2017-0281.pdf)\
 
-Galli, Manuel, et al. "**Machine learning approaches in MALDI-MSI: clinical applications.**" Expert review of proteomics 13.7 (2016): 685-696.  [[pdf]](./docs/pdfs/galli2016.pdf)
+Galli, Manuel, et al. "**Machine learning approaches in MALDI-MSI: clinical applications.**" Expert review of proteomics 13.7 (2016): 685-696. [[pdf]](./docs/pdfs/galli2016.pdf)
 
-MSI Fusions
+**MSI Fusions**
 
 Van de Plas, Raf, et al. "**Image fusion of mass spectrometry and microscopy: a multimodality paradigm for molecular tissue mapping.**" Nature methods 12.4 (2015): 366. [[pdf]](./docs/pdfs/vanderplas.pdf) [[supplemental]](./docs/pdfs/nmeth.3296-S1.pdf)
 
-Software Tools
+**Software Tools**
 
 Race, Alan M., et al. "**SpectralAnalysis: software for the masses.**" Analytical chemistry 88.19 (2016): 9451-9458. [[pdf]](./docs/pdfs/race2016.pdf)
 
@@ -80,14 +103,19 @@ Bemis, Kyle D., et al. "**Cardinal: an R package for statistical analysis of mas
 
 Veselkov, Kirill, et al. "**BASIS: High-performance bioinformatics platform for processing of large-scale mass spectrometry imaging data in chemically augmented histology.**" Scientific reports 8.1 (2018): 4053. [[pdf]](./docs/pdfs/s41598-018-22499-z.pdf)
 
-Wijetunge, Chalini D., et al. "**EXIMS: an improved data analysis pipeline based on a new peak picking method for EXploring Imaging Mass Spectrometry data.**" Bioinformatics 31.19 (2015): 3198-3206. [[pdf]](./docs/pdfs/btv356.pdf) 
+Wijetunge, Chalini D., et al. "**EXIMS: an improved data analysis pipeline based on a new peak picking method for EXploring Imaging Mass Spectrometry data.**" Bioinformatics 31.19 (2015): 3198-3206. [[pdf]](./docs/pdfs/btv356.pdf)
 
 Poczatek, Collin, Zeke Kaufman, and Claude Lechene. "**OpenMIMS ImageJ Plugin Guide.**" Harvard Medical School (Boston, Massachusetts, USA) (2009). [[pdf]](./docs/pdfs/openmims-manual.pdf)
 
-He, Jiuming, et al. "**MassImager: A software for interactive and in-depth analysis of mass spectrometry imaging data.**" Analytica chimica acta 1015 (2018): 50-57.  [[pdf]](./docs/pdfs/he2018.pdf)
+He, Jiuming, et al. "**MassImager: A software for interactive and in-depth analysis of mass spectrometry imaging data.**" Analytica chimica acta 1015 (2018): 50-57. [[pdf]](./docs/pdfs/he2018.pdf)
 
-Key Papers
+**Key Papers**
 
 Davidson, Shawn M., et al. "**Direct evidence for cancer-cell-autonomous extracellular protein catabolism in pancreatic tumors.**" Nature medicine 23.2 (2017): 235. [[pdf]](./docs/pdfs/nm.4256.pdf) [[supplemental]](./docs/pdfs/nm.4256-S1.pdf)
-**
 
+Römpp, Andreas, and Bernhard Spengler. "Mass spectrometry imaging with high resolution in mass and space." Histochemistry and cell biology 139.6 (2013): 759-783.
+
+Norris, Jeremy L., and Richard M. Caprioli. "Analysis of tissue specimens by matrix-assisted laser desorption/ionization imaging mass spectrometry in biological and clinical research." Chemical reviews 113.4 (2013): 2309-2342.
+
+nice phd thesis
+http://etheses.bham.ac.uk/5472/5/Palmer14PhD.pdf
