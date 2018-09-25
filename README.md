@@ -23,6 +23,8 @@
 
 ![alt-text](./docs/images/msi-fusions.png)
 
+### Concepts behind Image Fusions
+
 ---
 
 ## Resources
@@ -45,6 +47,9 @@
 | [PyImagingMSpec](https://github.com/alexandrovteam/pyImagingMSpec) | Python   |
 | [pyimzML](https://github.com/alexandrovteam/pyimzML)               | Python   |
 | [MSImageView](https://github.com/stoeckli/MSImageViewer) \*        |
+| [PySM](https://github.com/alexandrovteam/pySM)                     | Python   |
+| [pyQms](https://github.com/pyQms/pyqms)                            | Python   |
+| [massPix](https://github.com/hallz/massPix)                        | R        |
 
 ### Open Sofware
 
@@ -52,6 +57,7 @@
 | :---------------------------------------------------------- | :------ | :------- | :--- | :-------------- | :-------------- | :------- |
 | [OpenMSI](https://openmsi.nersc.gov/openmsi/client/)        | Webtool |
 | [Molecular Image Fusion](http://fusion.vueinnovations.com/) |         |
+| [Metaspace](http://metaspace2020.eu/#/about)                |
 
 ### Licenced Software
 
@@ -112,7 +118,15 @@ Ràfols, Pere, et al. "**Signal preprocessing, multivariate analysis and softwar
 
 Race, Alan M., et al. "**SpectralAnalysis: software for the masses.**" Analytical chemistry 88.19 (2016): 9451-9458. [[pdf]](./docs/pdfs/race2016.pdf)
 
+Palmer, Andrew, et al. "**FDR-controlled metabolite annotation for high-resolution imaging mass spectrometry.**" Nature methods 14.1 (2017): 57. [[pdf]](./docs/pdfs/palmer2016.pdf)
+
+Leufken, Johannes, et al. "**pyQms enables universal and accurate quantification of mass spectrometry data.**" Molecular & Cellular Proteomics (2017): mcp-M117. [[pdf]](./docs/pdfs/mcp.M117.068007.full.pdf)
+
+> Not IMS specific
+
 Bemis, Kyle D., et al. "**Cardinal: an R package for statistical analysis of mass spectrometry-based imaging experiments.**" Bioinformatics 31.14 (2015): 2418-2420. [[pdf]](./docs/pdfs/cardinal.pdf)
+
+Bond, Nicholas J., et al. "**massPix: an R package for annotation and interpretation of mass spectrometry imaging data for lipidomics.**" Metabolomics 13.11 (2017): 128. [[pdf]](./docs/pdfs/Bond2017.pdf)
 
 Veselkov, Kirill, et al. "**BASIS: High-performance bioinformatics platform for processing of large-scale mass spectrometry imaging data in chemically augmented histology.**" Scientific reports 8.1 (2018): 4053. [[pdf]](./docs/pdfs/s41598-018-22499-z.pdf)
 
