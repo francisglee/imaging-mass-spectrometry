@@ -53,6 +53,7 @@
 | [imzML Validator](https://gitlab.com/imzML/imzMLValidator)                        | Java     |
 | [Metaspace](https://github.com/metaspace2020/metaspace)                           | Python   |
 | [ChemDistiller](https://bitbucket.org/iAnalytica/chemdistillerpython/src/master/) | Python   |
+| [MSRC Registration Toolbox](https://github.com/NHPatterson/regToolboxMSRC)        | Python   |
 
 ### Open Sofware
 
@@ -63,10 +64,11 @@
 
 ### Licenced Software
 
-| Name                                          | OS         | Year | Functionalities | Instrumentation | Language | Comments |
-| :-------------------------------------------- | :--------- | :--- | :-------------- | :-------------- | :------- | :------- |
+| Name                                          | OS         | Year | Functionalities | Instrumentation | Language | Documentation                                                         | Comments |
+| :-------------------------------------------- | :--------- | :--- | :-------------- | :-------------- | :------- | :-------------------------------------------------------------------- | :------- |
 | [MassImager]()                                |
-| [FlexImaging]()                               |
+| [FlexImaging]()                               |            |      |                 |                 |          | [User Manual v5.0](./docs/pdfs/flexImaging_User_Manual_Workflows.pdf) |
+| [FlexAnalysis]()                              |            |      |                 |                 |          | [User Manual v3.4](./docs/pdfs/flexAnalysisUserManual)                |
 | [SCiLS Lab]()                                 |
 | [msIQuant](https://ms-imaging.org/wp/paquan/) | Windows 7+ |
 
@@ -107,6 +109,8 @@ Bishop, David P., et al. "**A guide to integrating immunohistochemistry and chem
 Prideaux, Brendan, Anne Lenaerts, and Véronique Dartois. "**Imaging and spatially resolved quantification of drug distribution in tissues by mass spectrometry.**" Current opinion in chemical biology 44 (2018): 93-100. [[pdf]](./docs/pdfs/1-s2.0-S1367593117302211-main.pdf)
 
 ### Quantitative Techniques
+
+Patterson, Nathan Heath, et al. "**Advanced Registration and Analysis of MALDI Imaging Mass Spectrometry Measurements through Autofluorescence Microscopy.**" Analytical chemistry (2018). [[pdf]](./docs/pdf/10.1021@acs.analchem.8b02884.pdf)
 
 Behrmann, Jens, et al. "**Deep learning for tumor classification in imaging mass spectrometry.**" Bioinformatics 1 (2017): 9. [[pdf]](./docs/pdfs/1705.01015.pdf)
 
