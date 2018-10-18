@@ -38,22 +38,22 @@
 
 | Name                                                                              | Language | Category | Year | Functionalities | Instrumentation | Comments |
 | :-------------------------------------------------------------------------------- | :------- | :------- | :--- | :-------------- | :-------------- | :------- |
-| [SpectralAnalysis](https://github.com/AlanRace/SpectralAnalysis)                  | MATLAB   |
-| [BASIS](https://bitbucket.org/iAnalytica/basis_pyproc/src/master/)                | Python   |
-| [Cardinal](https://github.com/kuwisdelu/Cardinal)                                 | R        |
-| [EXIMS](https://sourceforge.net/projects/exims/files/)                            |          |
-| [OpenMIMS](https://github.com/BWHCNI/OpenMIMS)                                    | Java     |
-| [OOMAT](https://github.com/biorack/omaat)                                         | Python   |
-| [PyImagingMSpec](https://github.com/alexandrovteam/pyImagingMSpec)                | Python   |
-| [pyimzML](https://github.com/alexandrovteam/pyimzML)                              | Python   |
-| [MSImageView](https://github.com/stoeckli/MSImageViewer) \*                       |
-| [PySM](https://github.com/alexandrovteam/pySM)                                    | Python   |
-| [pyQms](https://github.com/pyQms/pyqms)                                           | Python   |
-| [massPix](https://github.com/hallz/massPix)                                       | R        |
-| [imzML Validator](https://gitlab.com/imzML/imzMLValidator)                        | Java     |
+| [SpectralAnalysis](https://github.com/AlanRace/SpectralAnalysis)                  | MATLAB   |          | 2016 |
+| [BASIS](https://bitbucket.org/iAnalytica/basis_pyproc/src/master/)                | Python   |          | 2018 |
+| [Cardinal](https://github.com/kuwisdelu/Cardinal)                                 | R        |          | 2015 |
+| [EXIMS](https://sourceforge.net/projects/exims/files/)                            |          |          | 2015 |
+| [OpenMIMS](https://github.com/BWHCNI/OpenMIMS)                                    | Java     |          | 2009 |
+| [OOMAT](https://github.com/biorack/omaat)                                         | Python   |          | 2017 |
+| [PyImagingMSpec](https://github.com/alexandrovteam/pyImagingMSpec)                | Python   |          | 2015 |
+| [pyimzML](https://github.com/alexandrovteam/pyimzML)                              | Python   |          | 2016 |
+| [MSImageView](https://github.com/stoeckli/MSImageViewer) \*                       |          |          | 2013 |
+| [PySM](https://github.com/alexandrovteam/pySM)                                    | Python   |          | 2017 |
+| [pyQms](https://github.com/pyQms/pyqms)                                           | Python   |          | 2017 |
+| [massPix](https://github.com/hallz/massPix)                                       | R        |          | 2017 |
+| [imzML Validator](https://gitlab.com/imzML/imzMLValidator)                        | Java     |          | 2018 |
 | [Metaspace](https://github.com/metaspace2020/metaspace)                           | Python   |
-| [ChemDistiller](https://bitbucket.org/iAnalytica/chemdistillerpython/src/master/) | Python   |
-| [MSRC Registration Toolbox](https://github.com/NHPatterson/regToolboxMSRC)        | Python   |
+| [ChemDistiller](https://bitbucket.org/iAnalytica/chemdistillerpython/src/master/) | Python   |          | 2018 |
+| [MSRC Registration Toolbox](https://github.com/NHPatterson/regToolboxMSRC)        | Python   |          | 2018 |
 
 ### Open Sofware
 
@@ -68,7 +68,7 @@
 | :-------------------------------------------- | :--------- | :--- | :-------------- | :-------------- | :------- | :-------------------------------------------------------------------- | :------- |
 | [MassImager]()                                |
 | [FlexImaging]()                               |            |      |                 |                 |          | [User Manual v5.0](./docs/pdfs/flexImaging_User_Manual_Workflows.pdf) |
-| [FlexAnalysis]()                              |            |      |                 |                 |          | [User Manual v3.4](./docs/pdfs/flexAnalysisUserManual)                |
+| [FlexAnalysis]()                              |            |      |                 |                 |          | [User Manual v3.4](./docs/pdfs/flexAnalysisUserManual.pdf)            |
 | [SCiLS Lab]()                                 |
 | [msIQuant](https://ms-imaging.org/wp/paquan/) | Windows 7+ |
 
