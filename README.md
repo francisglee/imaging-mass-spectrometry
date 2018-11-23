@@ -51,15 +51,16 @@
 | [pyQms](https://github.com/pyQms/pyqms)                                           | Python   |          | 2017 |
 | [massPix](https://github.com/hallz/massPix)                                       | R        |          | 2017 |
 | [imzML Validator](https://gitlab.com/imzML/imzMLValidator)                        | Java     |          | 2018 |
-| [Metaspace](https://github.com/metaspace2020/metaspace)                           | Python   |
 | [ChemDistiller](https://bitbucket.org/iAnalytica/chemdistillerpython/src/master/) | Python   |          | 2018 |
 | [MSRC Registration Toolbox](https://github.com/NHPatterson/regToolboxMSRC)        | Python   |          | 2018 |
+| [cpyMSpec](https://github.com/alexandrovteam/cpyMSpec)                            | Python   |          | 2017 |
 
 ### Open Sofware
 
 | Name                                                        | OS      | Category | Year | Functionalities | Instrumentation | Comments |
 | :---------------------------------------------------------- | :------ | :------- | :--- | :-------------- | :-------------- | :------- |
 | [OpenMSI](https://openmsi.nersc.gov/openmsi/client/)        | Webtool |
+| [Metaspace](https://github.com/metaspace2020/metaspace) | 
 | [Molecular Image Fusion](http://fusion.vueinnovations.com/) |         |
 
 ### Licenced Software
@@ -71,6 +72,14 @@
 | [FlexAnalysis]()                              |            |      |                 |                 |          | [User Manual v3.4](./docs/pdfs/flexAnalysisUserManual.pdf)            |
 | [SCiLS Lab]()                                 |
 | [msIQuant](https://ms-imaging.org/wp/paquan/) | Windows 7+ |
+
+---
+
+## Featured Groups
+
+1.  [Alexandrov Group](https://www.embl.de//research/units/scb/alexandrov/index.html)
+2.  [Van Der Plas Group](https://www.tudelft.nl/3me/afdelingen/delft-center-for-systems-and-control/people/professors/dring-r-van-de-plas-raf/)
+3.  [Veselkov Lab](https://www.imperial.ac.uk/people/kirill.veselkov04)
 
 ---
 
